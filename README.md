@@ -2,7 +2,7 @@
 
 A MINGW-compatible fork of Glucose 4.2.1
 
-This repository has the same contents as the Glucose (main repo)[https://github.com/audemard/glucose], with minimal edits to make it quickly compilable using MINGW on the Windows Linux Subsystem.
+This repository has the same contents as the Glucose [main repository]([https://github.com/audemard/glucose]), with minimal edits to make it quickly compilable using MINGW on the Windows Linux Subsystem.
 
 It also contains precompiled binaries, in the `bin-windows` directory, with a sample CNF file so you can quickly tests if everything's working well on your machine.
 
